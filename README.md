@@ -1,3 +1,6 @@
+[![wakatime](https://wakatime.com/badge/user/018d6ff5-521f-45a3-8076-844d41751c14.svg)](https://wakatime.com/@018d6ff5-521f-45a3-8076-844d41751c14)
+
+
 - 👋 Hi, I’m @NathanOyewole
 - 👀 I’m interested in ... Software Engineering, Front-End Development, Building APIs, and Machine Learning. 
 - 🌱 I’m currently learning ... Building APIs, and Front-End Development, Back-End. 
