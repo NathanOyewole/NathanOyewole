@@ -1,5 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/018d6ff5-521f-45a3-8076-844d41751c14.svg)](https://wakatime.com/@018d6ff5-521f-45a3-8076-844d41751c14)
 
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanoyewole&show_icons=true&theme=transparent)
+
 
 - 👋 Hi, I’m @NathanOyewole
 - 👀 I’m interested in ... Software Engineering, Front-End Development, Building APIs, and Machine Learning. 
