@@ -24,6 +24,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=nathanoyewole&show_icons=true&theme=tokyonight&line_height=25">
   </p>
   <p align = "left">
+  <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nathanoyewole&langs_count=6&layout=compact">
   </p>
   <p align="left">
