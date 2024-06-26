@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align='center'>Hi there!👋🏾 I'm Nathan Oyewole⚡</h1> 
-  <p align="center"> I am a Software Developer focused on Frontend, & UI/UX Design (Product Design)</p>
+  <p align="center"> I am a Software Developer focused on Building with <strong>Rust, C++, and Python</strong>, & UI/UX Design (Product Design)</p>
   <p align='center'>Currently working 👨‍🍳 on myself, schooling, and trying to eradicate poverty on step at a time!</p>
   <p align='center'> Reach out to me here 👇</p>
 </p>
