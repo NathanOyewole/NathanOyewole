@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nathanoyewole" target="blank"><img src="https://img.shields.io/twitter/follow/nathanoyewole?logo=twitter&style=for-the-badge" alt="nathanoyewole" /></a> </p>
 
-- 🔭 I’m currently working on [Write Space](writes-space.vercel.app)
+- 🔭 I’m currently working on [Ghost Editor](ghossty.vercel.app)
 
-- 👯 I’m looking to collaborate on [gigeasy](gigeasy.vercel.app)
+- 👯 I’m looking to collaborate on [Kizu](usekizu.vercel.app)
 
-- 👨‍💻 All of my projects are available at [nathanoyewole.me](nathanoyewole.me)
+- 👨‍💻 All of my projects are available at [0xcathie.vercel.app](0xcathie.vercel.app)
 
-- 💬 Ask me about **Next.JS, JavaScript & TypeScript, Rust, & Solidity.**
+- 💬 Ask me about **Next.JS, JavaScript & TypeScript, Rust, & Go.**
 
 - 📫 How to reach me **nathanoyewole7@gmail.com**
 
